@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lily01awasthi)](https://git.io/streak-stats)
 <!--
 **lily01awasthi/lily01awasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
